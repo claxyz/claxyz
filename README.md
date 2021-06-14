@@ -2,4 +2,5 @@
 - 👀 I’m interested in Java
 - 🌱 I’m currently learning ruby
 - 💞️ I’m looking to collaborate on nothing right now
-- 📫 How to reach me on discord
+- 📫 How to reach me on discord 
+- send me a request @claxyz#0131
