@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @claxyz
+- 👀 I’m interested in Java
+- 🌱 I’m currently learning ruby
+- 💞️ I’m looking to collaborate on nothing right now
+- 📫 How to reach me on discord
